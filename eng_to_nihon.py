@@ -40,3 +40,11 @@ print(summary)
 '''
 [{'summary_text': "Ambedkar was appointed as the Dominion of India's Law Minister on 15 August 1947. Two weeks later, he was appointed Chairman of the Drafting Committee of the Constitution for the future Republic of India. The Constitution was adopted on 26 November 1949 by the Constituent Assembly. Ambedkar was one of the ministers who argued for extensive economic and social rights for women. He won the Assembly's support for introducing a system of reservations of jobs in the civil services, schools and colleges for members of scheduled castes and scheduled tribes and Other Backward Class."}]
 '''
+
+
+'''
+interesting what it leaves out with 50-200 min max
+
+Ambedkar served as the Dominion of India's Law Minister. He was appointed Chairman of the Drafting Committee of the Constitution for the future Republic of India. Ambedkar was one of the ministers who argued for extensive economic and social rights for women. 
+The Constitution was adopted on 26 November 1949 by the Constituent Assembly.
+'''
